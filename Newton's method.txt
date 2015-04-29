@@ -1,0 +1,8 @@
+Newton's method
+
+0	x = -2.00000000000	f(x) = 0.37007972652	f'(x) = 23.54879840808	h = -0.01571543992
+1	x = -2.01571543992	f(x) = 0.00452570839	f'(x) = 22.98664702184	h = -0.00019688423
+2	x = -2.01591232415	f(x) = 0.00000064300	f'(x) = 22.98011728479	h = -0.00000002798
+3	x = -2.01591235213	f(x) = 0.00000000000	f'(x) = 22.98011635766	h = -0.00000000000
+
+It took only 3 iteration for the method to achieve the error tolerance. The convergence rate of Newton's method is quadratic.
